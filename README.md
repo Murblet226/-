@@ -22,7 +22,7 @@
     </ol>
     <h2>Как связаться со мной
     </h2>
-    <a> href=
+    <a href=
 "https://vk.com/idmurblet">Вконтакте</a>
 <img
 <src="C:\Users\relak\OneDrive\Рабочийстол\Алины\332c69e6457da3b9c78b24712c0d469c.jpg"
