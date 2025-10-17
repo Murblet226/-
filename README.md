@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="ru">
     <head>
-        <meta charset="utf8" />
         <title>Лабораторная работа 1</title>
     </head>
 <body>
