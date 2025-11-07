@@ -1,0 +1,80 @@
+body {
+    background-color: rgb(100, 166, 228);
+}
+.content {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 30px;
+    max-width: 1200px;
+    margin: 40px auto;
+    padding: 0 20px; }
+    .content-left {
+    flex: 2;
+    background: white;
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+    margin-right: 15px;
+}
+.content-right {
+    flex: 1;
+    background: white;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+    margin-left: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1 {
+    font-size: 36px;
+    color: rgb(185, 139, 78);
+    margin-bottom: 20px;
+    text-align: center;
+    text-shadow: 0cap;
+}
+h2 {
+    font-size: 28px;
+    color: rgb(40, 27, 112);
+    margin: 25 px 0 15px 0;
+    padding-left: 15px;
+    border-left: 4px solid;
+}
+p {
+    font-size: 18px;
+    color: #2c2c2c;
+    line-height: 1.5;
+    margin-bottom: 15px;
+    padding: 0 10px;
+}
+ul, ol {
+    font-size: 17px;
+    color: beige;
+    margin: 15px 0;
+    padding-left: 40px;
+}
+li {
+    margin-bottom: 8px;
+    line-height: 1.5;
+    padding: 5 px 0;
+}
+ul li {
+    list-style-type: circle;
+    color: rgb(98, 7, 184);
+}
+ol li {
+    list-style-type: decimal;
+    color: rgb(111, 18, 199);
+}
+a {
+    color: antiquewhite;
+    text-decoration: dotted;
+    font-weight: bold;
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+a:hover {
+    color: blueviolet;
+    text-decoration: underline;
+}
